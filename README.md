@@ -34,8 +34,5 @@ The framework integrates:
 - NumPy, Pandas, Matplotlib
 - SciPy
 - scikit-learn
-- XAI libraries (e.g., SHAP or integrated gradients if used)
+- XAI libraries (e.g., SHAP and LIME)
 
-You can install the requirements via:
-```bash
-pip install -r requirements.txt
