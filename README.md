@@ -79,9 +79,7 @@ To enhance interpretability:
 
 ## 🧭 Workflow
 
-📌 *Add your workflow diagram here:*
-
-> ![Workflow Diagram]("C:\Users\deepu\Downloads\Main.png")  
+> ![Workflow Diagram](Main.png)  
 > _Figure: Overall workflow for data preparation, feature extraction, fusion, classification, and explainability._
 
 ---
