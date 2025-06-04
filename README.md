@@ -62,9 +62,14 @@ Each modality has tailored feature extraction methods:
 
 To enhance interpretability:
 - **LIME** explains individual predictions and highlights contributing features
-- **SHAP** provides global and local interpretability of model outputs
-- Both methods emphasize the importance of **ECG and EMG features** in classification
+> ![LIME Results](https://github.com/user-attachments/assets/719e4a85-2eeb-443e-a668-401f0e457e2f)
+> Figure:  LIME’s Prediction probabilities computed for both classes with feature values
 
+- **SHAP** provides global and local interpretability of model outputs
+  
+![SHAP Results](https://github.com/user-attachments/assets/e7370293-374c-4b80-9093-2afa23fb7ba3)
+> Figure: SHAP’s Prediction probabilities computed for both clases with feature values.
+- Both methods emphasize the importance of **ECG and EMG features** in classification 
 ---
 
 ## 📊 Performance Summary
@@ -80,7 +85,7 @@ To enhance interpretability:
 ## 🧭 Workflow
 
 > ![Workflow Diagram](Main.png)  
-> _Figure: Overall workflow for data preparation, feature extraction, fusion, classification, and explainability._
+> Figure: Overall workflow for data preparation, feature extraction, fusion, classification, and explainability._
 
 ---
 
